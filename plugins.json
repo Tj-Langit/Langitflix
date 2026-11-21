@@ -1,26 +1,5 @@
 [
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://kuronime.sbs&sz=%size%",
-    "fileHash": "sha256-d672986061c2d426e1ebe30807ac4d7746d2b9c4029bf003c90765b81b4e75bd",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Tj-Langit/Langitflix",
-    "fileSize": 18190,
-    "status": 1,
-    "language": "id",
-    "authors": [
-      "ExtremeBoy"
-    ],
-    "tvTypes": [
-      "AnimeMovie",
-      "OVA",
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "Kuronime",
-    "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/Kuronime.cs3",
-    "name": "Kuronime"
-  },
-  {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://otakudesu.blog&sz=%size%",
         "fileHash": "sha256-eb5519243324e2407c2bbba4140e88f2525b793d128fa3578e33ad115fe170aa",
         "apiVersion": 1,
