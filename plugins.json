@@ -21,24 +21,24 @@
         "name": "Otakudesu"
   },
   {
-    "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Tj-Langit/Langitflix",
-    "fileSize": 20883,
-    "status": 1,
-    "language": "id",
-    "authors": [
-      "Asm0d3usX"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "Indomax",
-    "description": "📺 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/Indomax.cs3",
-    "name": "Indomax"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://blurayufr.site&sz=%size%",
+        "fileHash": "sha256-7dfb532eaec5cd7ee0ad6d41292c55587a1724aa24ab1031c5312c886a536cf6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Tj-Langit/Langitflix",
+        "fileSize": 27993,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ExtremeBoy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "BlurayUFR",
+        "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/BlurayUFR.cs3",
+        "name": "BlurayUFR"
   },
   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://new1.pusatfilm21info.com&sz=%size%",
