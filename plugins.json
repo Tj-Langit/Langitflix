@@ -60,5 +60,25 @@
     "description": "📺 Streaming Movie and TV Series",
     "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/Indomax.cs3",
     "name": "Indomax"
+  },
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://new1.pusatfilm21info.com&sz=%size%",
+        "fileHash": "sha256-0fc8b84c6edc3f7668cca8f8d193e110047da85405ce4e9ae23b22925834bd1a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Tj-Langit/Langitflix",
+        "fileSize": 36967,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ExtremeBoy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "PusatFilm",
+        "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/PusatFilm.cs3",
+        "name": "PusatFilm"
   }
 ]
