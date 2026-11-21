@@ -1,0 +1,8 @@
+{
+  "name": "Langitflix",
+  "description": "Repository Streaming Pribadi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/plugins.json"
+  ]
+}
