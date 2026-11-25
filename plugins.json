@@ -59,5 +59,26 @@
         "internalName": "PusatFilm",
         "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/PusatFilm.cs3",
         "name": "PusatFilm"
+  },
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://kuramanime.ink&sz=%size%",
+        "fileHash": "sha256-1b762b166ea170890febaecdfde68616a5b7ea1e18e3880b1f00b16a83b59217",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Tj-Langit/Langitflix",
+        "fileSize": 25509,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ExtremeBoy"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Kuramanime",
+        "url": "https://raw.githubusercontent.com/Tj-Langit/Langitflix/main/Kuramanime.cs3",
+        "name": "Kuramanime"
   }
 ]
